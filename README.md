@@ -1,4 +1,3 @@
-# Primetrade-AI_Assignment
 # PrimeTrade.ai Hiring Assignment
 
 ## Relationship Between Bitcoin Market Sentiment and Trader Performance
